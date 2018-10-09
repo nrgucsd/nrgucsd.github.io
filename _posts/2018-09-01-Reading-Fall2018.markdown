@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Reading - Fall 2018"
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
-%image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 Hi!
 
 This group is for people interested in the area of communication networks and neural networks! We plan to meet every week and discuss on a relevant topic. 
