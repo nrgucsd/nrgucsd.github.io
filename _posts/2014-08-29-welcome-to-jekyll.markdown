@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Fall 2018"
 categories: jekyll update
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
