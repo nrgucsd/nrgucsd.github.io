@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Please go to [Reading - Fall 2018](https://nrg-ucsd.github.io/2018/09/01/Reading-Fall2018.html) for details.
+<!--
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
@@ -15,3 +17,4 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+-->
