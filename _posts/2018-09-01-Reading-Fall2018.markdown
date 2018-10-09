@@ -4,7 +4,7 @@ title:  "Reading - Fall 2018"
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
-Hi! Welcome to Networks Reading Group [Fall 2018](https://nrg-ucsd.github.io/2018/09/01/Reading-Fall2018.html)
+Hi! Welcome to Networks Reading Group for [Fall 2018](https://nrg-ucsd.github.io/2018/09/01/Reading-Fall2018.html).
 
 This group is for people interested in the area of communication networks and neural networks! We plan to meet every week and discuss on a relevant topic. 
 
