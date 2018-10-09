@@ -4,7 +4,7 @@ title:  "Reading - Fall 2018"
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
-Hi!
+Hi! Welcome to Networks Reading Group [Fall 2018](https://nrg-ucsd.github.io/2018/09/01/Reading-Fall2018.html)
 
 This group is for people interested in the area of communication networks and neural networks! We plan to meet every week and discuss on a relevant topic. 
 
@@ -18,8 +18,8 @@ This group is for people interested in the area of communication networks and ne
 
 
 
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+<!---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated. --->
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
