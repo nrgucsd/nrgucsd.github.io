@@ -25,9 +25,9 @@ TBD
 
 ### Schedule
 | Date        | Presenter          | Topic  | Slides |
-| ------------- |-------------| -----|---|
-| TBD     | TBD | TBD | |
-| TBD| TBD |TBD | |
+|-------------|--------------------|--------|--------|
+| TBD         | TBD                | TBD    |        |
+
 
 
 
