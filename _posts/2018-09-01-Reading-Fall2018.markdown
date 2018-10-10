@@ -24,10 +24,10 @@ Join our google group for important updates. We also discuss on slack.
 TBD
 
 ### Schedule
-| Date        | Presenter          | Topic  | Slides 
-| ------------- |-------------| -----|---
-| TBD     | TBD | TBD | 
-| TBD| TBD |TBD | 
+| Date        | Presenter          | Topic  | Slides |
+| ------------- |-------------| -----|---|
+| TBD     | TBD | TBD | |
+| TBD| TBD |TBD | |
 
 
 
