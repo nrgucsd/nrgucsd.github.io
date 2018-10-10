@@ -28,16 +28,13 @@ TBD
 
 ### Schedule
 
+The schedule is as follows
+
 | Date        | Presenter          | Topic  | Slides |
 |:-----------:|:------------------:|:------:|:------:|
-| TBD         | TBD                | TBD    |        |
+| TBD         | [TBD][GDrive]                | TBD    |        |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 ### Contacts
@@ -49,3 +46,5 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 <!---
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 --->
+
+[GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
