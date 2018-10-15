@@ -30,11 +30,12 @@ TBD
 
 The schedule is as follows
 
-| Date        | Presenter          | Topic  | Slides |
-|:-----------:|:------------------:|:------:|:------:|
-| TBD         | [TBD][GDrive]                | TBD    |        |
-
-
+| Date      | Time  | Presenter          | Topic  | Slides |
+|:---------:|-----:|:------------------:|:------:|:------:|
+| Oct 19    | TBD    | Ish jain         | TBD    |        |
+| Oct 19    | TBD    | Manideep         | TBD    |        |
+| Oct 26    | TBD    | [TBD][GDrive]                | TBD    |        |
+| Oct 26    | TBD   | [TBD][GDrive]                | TBD    |        |
 
 
 ### Contacts
