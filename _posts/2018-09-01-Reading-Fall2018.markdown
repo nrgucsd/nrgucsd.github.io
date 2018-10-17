@@ -12,7 +12,7 @@ This group is for people interested in the areas of communication networks and n
 Everyone in the group is encouraged to lead the discussion atleast once a quarter. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides form a talk given at conference. 
 **Please put your name to get a time slot for your presentation [here on GoogleDoc][GDrive]**.
 
-## Why Participate?
+### Why Participate?
 
 * It’s casual. No pressure!
 * Meet and discuss with your colleagues
@@ -20,7 +20,7 @@ Everyone in the group is encouraged to lead the discussion atleast once a quarte
 * Build your academic skills (presenting, analysis / criticism,)
 * Get faster at reading papers
 
-## How to participate
+### How to participate
 
 Anyone can attend the meetings. 
 **Join our [google group](https://groups.google.com/forum/#!forum/nrgucsd) for important updates. We also discuss on [slack](https://join.slack.com/t/nrgucsd/signup).**
@@ -29,7 +29,7 @@ Anyone can attend the meetings.
 
 We meet every **Fridays 4-5 PM at Atkinson Hall (mostly 4th floor conference room)**. See the schedule for details
 
-## Schedule
+### Schedule
 
 The schedule is as follows
 
@@ -50,7 +50,7 @@ The schedule is as follows
 | Dec 07    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
 |           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 
-## Contacts
+### Contacts
 If you have any question or if you want to join the group, please contact
 - [Ish Jain](https://ishjain.github.io/) [ikjain@eng.ucsd.edu] 
 - [Chen Chen](http://cseweb.ucsd.edu/~chc004/) [chenchen@eng.ucsd.edu]
