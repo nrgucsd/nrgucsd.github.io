@@ -40,15 +40,15 @@ The schedule is as follows
 | Oct 26    | 4-4:30 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
 |           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Nov 02    | 4-4:30 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
-| Nov 02    | 4:30-5 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
+|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Nov 09    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Nov 09    | 4:30-5 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
+|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Nov 16    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Nov 16    | 4:30-5 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
+|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Nov 30    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Nov 30    | 4:30-5 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
+|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Dec 07    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Dec 07    | 4:30-5 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
+|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 
 
 ### Contacts
