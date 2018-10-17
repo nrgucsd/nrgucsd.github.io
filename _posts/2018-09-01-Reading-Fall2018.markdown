@@ -10,7 +10,6 @@ This group is for people interested in the areas of communication networks and n
 
 ### Who will present?
 Everyone in the group is encouraged to lead the discussion atleast once a quarter. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides form a talk given at conference. 
-
 **Please put your name to get a time slot for your presentation [here on GoogleDoc][GDrive]**.
 
 ### Why Participate?
@@ -36,7 +35,7 @@ The schedule is as follows
 
 | Date      | Time       |Location  | Presenter          | Topic  | Slides |
 |:---------:|-----------:|:--------:|:------------------:|:------:|:------:|
-| Oct 19    | 4-4:30 PM  | AH 4004  | Ish jain           | TBD    |        |
+| Oct 19    | 4-4:30 PM  | AH 4004  | Ish Jain           | TBD    |        |
 |           | 4:30-5 PM  |          | Manideep Dunna     | TBD    |        |
 | Oct 26    | 4-4:30 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
 |           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
