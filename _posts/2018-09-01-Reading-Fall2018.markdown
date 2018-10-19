@@ -35,7 +35,7 @@ The schedule is as follows
 
 | Date      | Time       |Location  | Presenter          | Topic  | Materials |
 |:---------:|-----------:|:--------:|:------------------:|:------:|:------:|
-| Oct 19    | 4-5   PM  | AH 4004  | Ish Jain           | Beam training for mmWave networks    |        |
+| Oct 19    | 4-5   PM  | AH 4004  | Ish Jain           | Beam Training for mmWave Networks    |  [MUTE paper][MUTE]      |
 | Oct 26    | 4-4:30 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
 |           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
 | Nov 02    | 4-4:30 PM  | AH 6004  | [TBD][GDrive]      | TBD    |        |
@@ -61,3 +61,4 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 --->
 
 [GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
+[MUTE]: https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf
