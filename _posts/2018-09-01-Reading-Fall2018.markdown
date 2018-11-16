@@ -35,7 +35,8 @@ The schedule is as follows
 
 | Date      | Time       |Location  | Presenter          | Topic  | Materials |
 |:---------:|-----------:|:--------:|:------------------|:------|:------:|
-| Oct 19    | 4-5   PM   | AH 4004  | Ish Jain           | Beam Training for mmWave Networks    |  [MUTE][MUTE] [Slides][Ish]     |
+| Oct 19    | 4-5   PM   | AH 4004  | Ish Jain           | Multi-Stream Beam-Training for mmWave
+MIMO Networks    |  [paper][MUTE] [Slides][Ish]     |
 | Oct 26    | 4-5 PM     | AH 6004  | Manideep Dunna    | Position Tracking for Virtual Reality Using Commodity WiFi   |  [paper][paperMani]      |
 | Nov 02    | 4-5 PM     | AH 6004  | Roshan Ayyalasomayajula | Through Wall Human Pose Estimation Using Radio Signals [CVPR 2018]   |  [paper][PoseEst]  [Slides][Roshan]    |
 | Nov 16    | 4-5 PM     | AH 4004  | Kshitiz Bansal      | EQ-Radio: Emotion Recognition using Wireless Signals   | [paper][Kshitiz_p]       |
