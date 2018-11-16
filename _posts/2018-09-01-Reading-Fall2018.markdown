@@ -37,14 +37,11 @@ The schedule is as follows
 |:---------:|-----------:|:--------:|:------------------|:------|:------:|
 | Oct 19    | 4-5   PM   | AH 4004  | Ish Jain           | Beam Training for mmWave Networks    |  [MUTE][MUTE] [Slides][Ish]     |
 | Oct 26    | 4-5 PM     | AH 6004  | Manideep Dunna    | Position Tracking for Virtual Reality Using Commodity WiFi   |  [paper][paperMani]      |
-| Nov 02    | 4-5 PM     | AH 6004  | Roshan            | Through Wall Human Pose Estimation Using Radio Signals [CVPR 2018]   |  [paper][PoseEst]  [Slides][Roshan]    |
-| Nov 09    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Nov 16    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
-| Nov 30    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
-| Dec 07    | 4-4:30 PM  | AH 4004  | [TBD][GDrive]      | TBD    |        |
-|           | 4:30-5 PM  |          | [TBD][GDrive]      | TBD    |        |
+| Nov 02    | 4-5 PM     | AH 6004  | Roshan Ayyalasomayajula | Through Wall Human Pose Estimation Using Radio Signals [CVPR 2018]   |  [paper][PoseEst]  [Slides][Roshan]    |
+| Nov 16    | 4-5 PM     | AH 4004  | Kshitiz Bansal      | EQ-Radio: Emotion Recognition using Wireless Signals   | [paper][Kshitiz_p]       |
+| Nov 30    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
+| Dec 07    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
+
 
 ### Contacts
 If you have any question or if you want to join the group, please contact
@@ -63,3 +60,4 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 [paperMani]: https://arxiv.org/abs/1703.03468
 [PoseEst]: http://rfpose.csail.mit.edu/
 [Roshan]: https://nrgucsd.github.io/Slides/Fall2018/Roshan.pdf
+[Kshitiz_p]: http://eqradio.csail.mit.edu/files/eqradio-paper.pdf
