@@ -38,7 +38,7 @@ The schedule is as follows
 | Oct 19    | 4-5   PM   | AH 4004  | Ish Jain           | Multi-Stream Beam-Training for mmWave MIMO Networks    |  [paper][MUTE] [Slides][Ish]     |
 | Oct 26    | 4-5 PM     | AH 6004  | Manideep Dunna    | Position Tracking for Virtual Reality Using Commodity WiFi   |  [paper][paperMani]  [Slides][Mani]    |
 | Nov 02    | 4-5 PM     | AH 6004  | Roshan Ayyalasomayajula | Through Wall Human Pose Estimation Using Radio Signals [CVPR 2018]   |  [paper][PoseEst]  [Slides][Roshan]    |
-| Nov 16    | 4-5 PM     | AH 4004  | Kshitiz Bansal      | EQ-Radio: Emotion Recognition using Wireless Signals   | [paper][Kshitiz_p]       |
+| Nov 16    | 4-5 PM     | AH 4004  | Kshitiz Bansal      | EQ-Radio: Emotion Recognition using Wireless Signals   | [paper][Kshitiz_p] [Slides][Kshitiz]      |
 | Nov 30    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
 | Dec 07    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
 
@@ -60,5 +60,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 [paperMani]: https://arxiv.org/abs/1703.03468
 [Mani]: https://nrgucsd.github.io/Slides/Fall2018/Mani_WiCapture.pdf
 [PoseEst]: http://rfpose.csail.mit.edu/
+[Kshitiz]: https://nrgucsd.github.io/Slides/Fall2018/Kshitiz%20Emotion%20Recognition%20using%20Wireless%20Signals.pdf
+
 [Roshan]: https://nrgucsd.github.io/Slides/Fall2018/Roshan.pdf
 [Kshitiz_p]: http://eqradio.csail.mit.edu/files/eqradio-paper.pdf
