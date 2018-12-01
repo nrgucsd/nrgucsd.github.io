@@ -39,8 +39,9 @@ The schedule is as follows
 | Oct 26    | 4-5 PM     | AH 6004  | Manideep Dunna    | Position Tracking for Virtual Reality Using Commodity WiFi   |  [paper][paperMani]  [Slides][Mani]    |
 | Nov 02    | 4-5 PM     | AH 6004  | Roshan Ayyalasomayajula | Through Wall Human Pose Estimation Using Radio Signals [CVPR 2018]   |  [paper][PoseEst]  [Slides][Roshan]    |
 | Nov 16    | 4-5 PM     | AH 4004  | Kshitiz Bansal      | EQ-Radio: Emotion Recognition using Wireless Signals   | [paper][Kshitiz_p] [Slides][Kshitiz]      |
-| Nov 30    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
-| Dec 07    | 4-5 PM     | AH 4004  | [TBD][GDrive]      | TBD    |        |
+| Nov 30    | 4-5 PM     | AH 4004  | Chen Chen      | LiveTag: Sensing Human-Object Interaction
+through Passive Chipless WiFi Tags   |  [paper][livetag] [Video][livetagVid]      |
+
 
 
 ### Contacts
@@ -64,3 +65,5 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 [Roshan]: https://nrgucsd.github.io/Slides/Fall2018/Roshan.pdf
 [Kshitiz_p]: http://eqradio.csail.mit.edu/files/eqradio-paper.pdf
+[livetag]: https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf
+[livetagVid]: https://www.youtube.com/watch?v=fCaJYe9Esvw
