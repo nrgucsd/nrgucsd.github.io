@@ -28,10 +28,8 @@ Anyone can attend the meetings. Join our [slack group](https://join.slack.com/t/
 
 ### Time and Location
 
-Date: Every Friday 
-
-Time: **4-5 PM** 
-
+Date: Every Friday <br />
+Time: **4-5 PM** <br />
 Location: **AH 3006** conference room
 
 ### Schedule
