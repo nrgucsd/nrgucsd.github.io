@@ -10,7 +10,8 @@ This group is for students interested in the areas of communication networks and
 
 ### Who will present?
 Everyone in the group is encouraged to lead the discussion. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides from a talk given at conference. 
-The list of presenters can be found [here][GDrive].
+
+<!--The list of presenters can be found [here][GDrive].-->
 
 ### Why Participate?
 
@@ -40,7 +41,7 @@ The schedule is as follows
 
 | Date      |  Presenter          | Topic  | Slides |
 |:---------:|--------------------:|:------:|:------:|
-| Jan 25    | Kshitiz bansal      | History of deep neural networks and state-of-the-art applications in 3d-machine learning    |        |
+| Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3d-machine learning    |        |
 | Feb 1    | Rohit Kumar      | TBD    |        |
 | Feb 8    | Ish Jain      | TBD    |        |
 | Feb 15    | Xinghan Wang    | TBD    |        |
