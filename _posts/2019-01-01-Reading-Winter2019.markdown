@@ -18,7 +18,7 @@ Everyone in the group is encouraged to lead the discussion. You can present a co
 * It’s casual. No pressure!
 * Meet and discuss with your colleagues
 * Learn about interesting and exciting science with like-minded people
-* Build your academic skills (presenting, analysis / criticism,)
+* Build your academic skills (presenting, analysis/criticism)
 * Get faster at reading papers
 
 ### How to participate
@@ -29,7 +29,7 @@ Anyone can attend the meetings. Join our [slack group](https://join.slack.com/t/
 
 ### Time and Location
 
-Date: Every Friday (First meeting today, Jan 25) 
+Date: Every Friday 
 
 Time: **4-5 PM** 
 
