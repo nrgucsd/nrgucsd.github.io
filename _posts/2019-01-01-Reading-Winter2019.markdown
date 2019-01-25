@@ -23,9 +23,9 @@ Everyone in the group is encouraged to lead the discussion. You can present a co
 
 ### How to participate
 
-Anyone can attend the meetings. 
+Anyone can attend the meetings. Join our [slack group](https://join.slack.com/t/nrgucsd/signup) for important updates. 
 <!--The list of presenters can be found [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).-->
-Join our [slack group](https://join.slack.com/t/nrgucsd/signup) for important updates. 
+
 
 ### Time and Location
 
