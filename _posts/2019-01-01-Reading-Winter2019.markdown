@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Reading - Winter 2019"
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+
+Hi! Welcome to Networks Reading Group for Winter 2019.
+
+This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. They can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything they like.
+### Why Participate?
+
+* It’s casual. No pressure!
+* Meet and discuss with your colleagues
+* Learn about interesting and exciting science with like-minded people
+* Build your academic skills (presenting, analysis / criticism,)
+* Get faster at reading papers
+
+### How to participate
+
+Anyone can attend the meetings. The list of presenters can be found [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).
+
+Join our for important updates. We also discuss on [slack](https://join.slack.com/t/nrgucsd/signup).
+
+### Time and Location
+
+Date: Every Friday (First meeting today, Jan 25) 
+Time: **4-5 PM** 
+Location: **AH 3006** conference room
+
+### Schedule
+
+The schedule is as follows
+
+| Date      | Time  | Presenter          | Topic  | Slides |
+|:---------:|-----:|:------------------:|:------:|:------:|
+| Oct 19    | TBD    | Ish jain         | TBD    |        |
+| Oct 19    | TBD    | Manideep         | TBD    |        |
+| Oct 26    | TBD    | [TBD][GDrive]                | TBD    |        |
+| Oct 26    | TBD   | [TBD][GDrive]                | TBD    |        |
+
+
+### Contacts
+If you have any question or if you want to join the group, please contact
+- Ish Jain [ikjain@eng.ucsd.edu] 
+- Chen Chen [chenchen@eng.ucsd.edu]
+
+<!---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated. --->
+<!---
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+--->
+
+[GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
+
+ <!--[google group](https://groups.google.com/forum/#!forum/nrgucsd)-->
