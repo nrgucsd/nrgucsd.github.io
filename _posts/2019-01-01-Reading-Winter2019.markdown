@@ -6,8 +6,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 Hi! Welcome to Networks Reading Group for Winter 2019.
 
-This group is for people interested in the areas of communication networks and neural networks! We plan to meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Two people within the group would lead the discussion for 30 min each. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides form a talk given at conference.
-
+This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. They can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything they like.
 ### Why Participate?
 
 * It’s casual. No pressure!
@@ -18,13 +17,15 @@ This group is for people interested in the areas of communication networks and n
 
 ### How to participate
 
-Anyone can attend the meetings. You are also encouraged to lead the discussion and prepare a presentation for 30 min slot. Please put your name to get a time slot for your presentation [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).
+Anyone can attend the meetings. The list of presenters can be found [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).
 
-Join our [google group](https://groups.google.com/forum/#!forum/nrgucsd) for important updates. We also discuss on [slack](https://join.slack.com/t/nrgucsd/signup).
+Join our for important updates. We also discuss on [slack](https://join.slack.com/t/nrgucsd/signup).
 
 ### Time and Location
 
-TBD
+Date: Every Friday (First meeting today, Jan 25) 
+Time: **4-5 PM** 
+Location: **AH 3006** conference room
 
 ### Schedule
 
@@ -51,3 +52,4 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 [GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
 
+ <!--[google group](https://groups.google.com/forum/#!forum/nrgucsd)-->
