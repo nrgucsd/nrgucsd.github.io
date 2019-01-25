@@ -6,7 +6,12 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 Hi! Welcome to Networks Reading Group for Winter 2019.
 
-This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. They can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything they like.
+This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. 
+
+### Who will present?
+Everyone in the group is encouraged to lead the discussion. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides from a talk given at conference. 
+The list of presenters can be found [here][GDrive].
+
 ### Why Participate?
 
 * It’s casual. No pressure!
@@ -17,27 +22,31 @@ This group is for students interested in the areas of communication networks and
 
 ### How to participate
 
-Anyone can attend the meetings. The list of presenters can be found [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).
-
-Join our for important updates. We also discuss on [slack](https://join.slack.com/t/nrgucsd/signup).
+Anyone can attend the meetings. 
+<!--The list of presenters can be found [here on GoogleDoc](https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing).-->
+Join our [slack group](https://join.slack.com/t/nrgucsd/signup) for important updates. 
 
 ### Time and Location
 
 Date: Every Friday (First meeting today, Jan 25) 
+
 Time: **4-5 PM** 
+
 Location: **AH 3006** conference room
 
 ### Schedule
 
 The schedule is as follows
 
-| Date      | Time  | Presenter          | Topic  | Slides |
-|:---------:|-----:|:------------------:|:------:|:------:|
-| Oct 19    | TBD    | Ish jain         | TBD    |        |
-| Oct 19    | TBD    | Manideep         | TBD    |        |
-| Oct 26    | TBD    | [TBD][GDrive]                | TBD    |        |
-| Oct 26    | TBD   | [TBD][GDrive]                | TBD    |        |
-
+| Date      |  Presenter          | Topic  | Slides |
+|:---------:|--------------------:|:------:|:------:|
+| Jan 25    | Kshitiz bansal      | History of deep neural networks and state-of-the-art applications in 3d-machine learning    |        |
+| Feb 1    | Rohit Kumar      | TBD    |        |
+| Feb 8    | Ish Jain      | TBD    |        |
+| Feb 15    | Xinghan Wang    | TBD    |        |
+| Feb 22    | Yeswanth Reddy     | TBD    |        |
+| Mar 1    | Manideep Dunna   | TBD    |        |
+| Mar 8    | Renjie Zhao   | TBD    |        |
 
 ### Contacts
 If you have any question or if you want to join the group, please contact
