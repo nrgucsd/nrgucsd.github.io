@@ -10,8 +10,7 @@ This group is for students interested in the areas of communication networks and
 
 ### Who will present?
 Everyone in the group is encouraged to lead the discussion. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides from a talk given at conference. 
-
-<!--The list of presenters can be found [here][GDrive].-->
+The list of presenters can be found [here][GDrive].
 
 ### Why Participate?
 
