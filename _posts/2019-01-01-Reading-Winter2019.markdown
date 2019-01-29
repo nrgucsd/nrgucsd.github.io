@@ -59,5 +59,5 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 [GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
 [Kshitiz]: https://nrgucsd.github.io/Slides/Winter2019/Kshitiz_Deep%20%20Learning.pdf
-[Rohitpaper](https://web.stanford.edu/~skatti/pubs/sigcomm13-fullduplex.pdf)
+[Rohitpaper]: https://web.stanford.edu/~skatti/pubs/sigcomm13-fullduplex.pdf
  <!--[google group](https://groups.google.com/forum/#!forum/nrgucsd)-->
