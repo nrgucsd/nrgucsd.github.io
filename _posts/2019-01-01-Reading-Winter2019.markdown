@@ -38,8 +38,8 @@ The schedule is as follows
 
 | Date      |  Presenter          | Topic  | Slides |
 |:---------:|--------------------:|:------:|:------:|
-| Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3d-machine learning    | [Slides][Kshitiz]       |
-| Feb 1    | Rohit Kumar      | Full Duplex Radios    | [RohitPaper]       |
+| Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3D-machine learning    | [Slides][Kshitiz]       |
+| Feb 1    | Rohit Kumar      | Full Duplex Radios    | [Paper][RohitPaper]       |
 | Feb 8    | Ish Jain      | Millimeter Wave Beam Tracking    |        |
 | Feb 15    | Xinghan Wang    | TBD    |        |
 | Feb 22    | Yeswanth Reddy     | TBD    |        |
