@@ -39,10 +39,10 @@ The schedule is as follows
 | Date      |  Presenter          | Topic  | Slides |
 |:---------:|--------------------:|:------:|:------:|
 | Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3D-machine learning    | [Slides][Kshitiz]       |
-| Feb 1    | Rohit Kumar      | Full Duplex Radios    | [Paper][RohitPaper]  [Slides][Rohit]     |
-| Feb 8    | Ish Jain      | Millimeter Wave Beam Tracking    |        |
+| Feb 1    | Rohit Kumar      | Full Duplex Radios [Sigcomm 2013]   | [Paper][RohitPaper]  [Slides][Rohit]     |
+| Feb 8    | Yeswanth Reddy     | SweepSense: Sensing 5 GHz in 5 Milliseconds [NSDI 2019]   |        |
 | Feb 15    | Xinghan Wang    | TBD    |        |
-| Feb 22    | Yeswanth Reddy     | TBD    |        |
+| Feb 22    | Ish Jain      | Millimeter Wave Beam Tracking     |        |
 | Mar 1    | Manideep Dunna   | TBD    |        |
 | Mar 8    | Renjie Zhao   | TBD    |        |
 
