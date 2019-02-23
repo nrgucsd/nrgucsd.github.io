@@ -41,7 +41,7 @@ The schedule is as follows
 | Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3D-machine learning    | [Slides][Kshitiz]       |
 | Feb 1    | Rohit Kumar      | Full Duplex Radios [Sigcomm 2013]   | [Paper][RohitPaper]  [Slides][Rohit]     |
 | Feb 8    | Yeswanth Reddy     | SweepSense: Sensing 5 GHz in 5 Milliseconds [NSDI 2019]   |        |
-| Feb 22   | Xinghan Wang    | Infrastructure-free indoor localization     |  Slides [Xinghan]      |
+| Feb 22   | Xinghan Wang    | Infrastructure-free indoor localization     |  [Slides][Xinghan]      |
 | Mar 1    | Ish Jain      | Millimeter Wave Beam Tracking     |        |
 | Mar 8    | Manideep Dunna   | TBD    |        |
 | Mar 15    | Renjie Zhao   | TBD    |        |
