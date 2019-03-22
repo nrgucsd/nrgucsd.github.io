@@ -42,9 +42,9 @@ The schedule is as follows
 | Feb 1    | Rohit Kumar      | Full Duplex Radios [Sigcomm 2013]   | [Paper][RohitPaper]  [Slides][Rohit]     |
 | Feb 8    | Yeswanth Reddy     | SweepSense: Sensing 5 GHz in 5 Milliseconds [NSDI 2019]   | [paper][Yeswanth]       |
 | Feb 22   | Xinghan Wang    | Infrastructure-free indoor localization     |  [Slides][Xinghan]      |
-| Mar 1    | Ish Jain      | Millimeter Wave Beam Tracking     |        |
-| Mar 8    | Manideep Dunna   | TBD    |        |
-| Mar 15    | Renjie Zhao   | TBD    |        |
+| Mar 1    | Manideep Dunna   | Over-the-air Function Computation in Sensor Networks    |  [paper][mani]      |
+| Mar 8    | Ish Jain      |Many-to-Many Beam Alignment in Millimeter Wave Networks
+  | [paper][ish]       |
 
 ### Contacts
 If you have any question or if you want to join the group, please contact
@@ -63,4 +63,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 [Rohit]: https://nrgucsd.github.io/Slides/Winter2019/FDR.pdf
 [yeswanth]: https://wcsng.ucsd.edu/sweep-sense/
 [Xinghan]: https://nrgucsd.github.io/Slides/Winter2019/NRG_localization.pdf
+[mani]: https://arxiv.org/abs/1612.02307
+[ish]: https://www.usenix.org/conference/nsdi19/presentation/jog
+
  <!--[google group](https://groups.google.com/forum/#!forum/nrgucsd)-->
