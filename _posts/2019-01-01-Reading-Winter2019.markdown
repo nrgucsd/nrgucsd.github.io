@@ -43,8 +43,7 @@ The schedule is as follows
 | Feb 8    | Yeswanth Reddy     | SweepSense: Sensing 5 GHz in 5 Milliseconds [NSDI 2019]   | [paper][Yeswanth]       |
 | Feb 22   | Xinghan Wang    | Infrastructure-free indoor localization     |  [Slides][Xinghan]      |
 | Mar 1    | Manideep Dunna   | Over-the-air Function Computation in Sensor Networks    |  [paper][mani]      |
-| Mar 8    | Ish Jain      |Many-to-Many Beam Alignment in Millimeter Wave Networks
-  | [paper][ish]       |
+| Mar 8    | Ish Jain      |Many-to-Many Beam Alignment in Millimeter Wave Networks [NSDI 19]| [paper][ish]       |
 
 ### Contacts
 If you have any question or if you want to join the group, please contact
