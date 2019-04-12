@@ -29,8 +29,8 @@ Anyone can attend the meetings. Join our [slack group](https://join.slack.com/t/
 ### Time and Location
 
 Date: Every Friday <br />
-Time: **1-2 PM** <br />
-Location: **AH 4004** conference room
+Time: **4-5 PM** <br />
+Location: **AH 3006** conference room
 
 ### Schedule
 
@@ -38,7 +38,13 @@ The schedule is as follows
 
 | Date      |  Presenter          | Topic  | Slides |
 |:---------:|--------------------:|:------:|:------:|
-| Apr 12    | Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | Slides      |
+| Jan 25    | Kshitiz Bansal      | History of deep neural networks and state-of-the-art applications in 3D-machine learning    | [Slides][Kshitiz]       |
+| Feb 1    | Rohit Kumar      | Full Duplex Radios [Sigcomm 2013]   | [Paper][RohitPaper]  [Slides][Rohit]     |
+| Feb 8    | Yeswanth Reddy     | SweepSense: Sensing 5 GHz in 5 Milliseconds [NSDI 2019]   | [paper][Yeswanth]       |
+| Feb 22   | Xinghan Wang    | Infrastructure-free indoor localization     |  [Slides][Xinghan]      |
+| Mar 1    | Manideep Dunna   | Over-the-air Function Computation in Sensor Networks    |  [paper][mani]      |
+| Mar 8    | Ish Jain      |Many-to-Many Beam Alignment in Millimeter Wave Networks [NSDI 19]| [paper][ish]       |
+
 
 
 ### Contacts
