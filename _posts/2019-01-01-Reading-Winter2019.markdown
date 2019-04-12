@@ -35,6 +35,7 @@ Location: **AH 4004** conference room
 ### Schedule
 
 The schedule is as follows
+
 | Date      |  Presenter          | Topic  | Slides |
 |:---------:|--------------------:|:------:|:------:|
 | Apr 12    | Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | Slides      |
