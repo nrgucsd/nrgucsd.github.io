@@ -36,9 +36,16 @@ Location: **AH 4004** conference room
 
 The schedule is as follows
 
-| Date      |  Presenter          | Topic  | Slides |
-|:---------:|--------------------:|:------:|:------:|
-| Apr 12    | Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | Slides      |
+| Date              |  Location     |  Presenter          | Topic  | Slides |
+|:-----------------:|:-------------:|--------------------:|:------:|:------:|
+| Apr 19, 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | Slides      |
+| Apr 26, 1-2PM     | AH 4004       | Chen Chen     | TBD   | Slides      |
+| May 03, 1-2PM     | AH 6004       | Song and Jingqi     | TBD    | Slides      |
+| May 10, 1-2PM     | AH 4004       | Roshan     | TBD   | Slides      |
+| May 17, 1-2PM     | AH 5004       | Changhan Ge     | TBD   | Slides      |
+| May 24, 1-2PM     | AH 4004       | Kshitij bansal     | TBD   | Slides      |
+| May 31, 1-2PM     | AH 4004       | Rohit Kumar     | TBD   | Slides      |
+| Jun 07, 1-2PM     | AH 4004       | Yeswanth    | TBD    | Slides      |
 
 
 ### Contacts
