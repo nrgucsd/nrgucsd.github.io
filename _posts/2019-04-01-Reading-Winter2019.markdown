@@ -6,7 +6,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 Hi! Welcome to Networks Reading Group for Winter 2019.
 
-This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. 
+Networks Reading Group [NRG] is a group of students interested in the areas of **communication networks** and **neural networks!** We meet every week (Fridays) and discuss a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday.
 
 ### Who will present?
 Everyone in the group is encouraged to lead the discussion. You can present a conference paper, research ideas, literature review, book chapter, IEEE standard, or anything you like. You can also borrow some slides from a talk given at conference. 
@@ -29,8 +29,8 @@ Anyone can attend the meetings. Join our [slack group](https://join.slack.com/t/
 ### Time and Location
 
 Date: Every Friday <br />
-Time: **4-5 PM** <br />
-Location: **AH 4004** conference room
+Time: **1-2 PM** <br />
+Location: Mostly **AH 4004** conference room
 
 ### Schedule
 
