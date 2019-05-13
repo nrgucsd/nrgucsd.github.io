@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading - Winter 2019"
+title:  "Reading - Spring 2019"
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
@@ -38,14 +38,13 @@ The schedule is as follows
 
 | Date              |  Location     |  Presenter          | Topic  | Slides |
 |:-----------------:|:-------------:|--------------------:|:------:|:------:|
-| Apr 19, 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | Slides      |
-| Apr 26, 1-2PM     | AH 4004       | Chen Chen     | TBD   | Slides      |
-| May 03, 1-2PM     | AH 6004       | Song and Jingqi     | TBD    | Slides      |
-| May 10, 1-2PM     | AH 4004       | Roshan     | TBD   | Slides      |
-| May 17, 1-2PM     | AH 5004       | Changhan Ge     | TBD   | Slides      |
-| May 24, 1-2PM     | AH 4004       | Kshitij bansal     | TBD   | Slides      |
-| May 31, 1-2PM     | AH 4004       | Rohit Kumar     | TBD   | Slides      |
-| Jun 07, 1-2PM     | AH 4004       | Yeswanth    | TBD    | Slides      |
+| Apr 19, 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | [Slides][Renjieslides]      |
+| Apr 26, 1-2PM     | AH 4004       | Chen Chen     | Synthetic speech generated from brain recordings   | [Paper][chenpaper]     |
+| May 10, 1-2PM     | AH 4004       | Kshitiz Bansal     | Gravity Waves  | [Video][Kshitizvideo]     |
+| May 17, 1-2PM     | AH 5004       | Song and Jingqi      | TBD   | Slides      |
+| May 24, 1-2PM     | AH 4004       | Changhan Ge     | TBD   | Slides      |
+| May 31, 1-2PM     | AH 4004       | Yifan Huang     | TBD   | Slides      |
+| Jun 07, 1-2PM     | AH 4004       | Roshan    | TBD    | Slides      |
 
 
 ### Contacts
@@ -59,13 +58,9 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 --->
 
-[GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
-[Kshitiz]: https://nrgucsd.github.io/Slides/Winter2019/Kshitiz_Deep%20%20Learning.pdf
-[Rohitpaper]: https://web.stanford.edu/~skatti/pubs/sigcomm13-fullduplex.pdf
-[Rohit]: https://nrgucsd.github.io/Slides/Winter2019/FDR.pdf
-[yeswanth]: https://wcsng.ucsd.edu/sweep-sense/
-[Xinghan]: https://nrgucsd.github.io/Slides/Winter2019/NRG_localization.pdf
-[mani]: https://arxiv.org/abs/1612.02307
-[ish]: https://www.usenix.org/conference/nsdi19/presentation/jog
 
+[GDrive]: https://docs.google.com/spreadsheets/d/1bu7PYak81oSgTiqLN81KumtgoSW0caZZuMXu4R-8poA/edit?usp=sharing
+[Ranjieslides]: https://conferences.sigcomm.org/sigcomm/2017/files/tutorial-mmWave/2-standards.pptx
+[chenpaper]: https://www.sciencedaily.com/releases/2019/04/190424153558.htm
+[Kshitizvideo]: https://youtu.be/X8wHboSogIc
  <!--[google group](https://groups.google.com/forum/#!forum/nrgucsd)-->
