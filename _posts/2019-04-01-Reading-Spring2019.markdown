@@ -38,7 +38,7 @@ The schedule is as follows
 
 | Date              |  Location     |  Presenter          | Topic  | Slides |
 |:-----------------:|:-------------:|--------------------:|:------:|:------:|
-| Apr 19, 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | [Slides][Renjieslides]      |
+| Apr 19, 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | [Slides][Ranjieslides]      |
 | Apr 26, 1-2PM     | AH 4004       | Chen Chen     | Synthetic speech generated from brain recordings   | [Paper][chenpaper]     |
 | May 10, 1-2PM     | AH 4004       | Kshitiz Bansal     | Gravity Waves  | [Video][Kshitizvideo]     |
 | May 17, 1-2PM     | AH 5004       | Song and Jingqi      | TBD   | Slides      |
