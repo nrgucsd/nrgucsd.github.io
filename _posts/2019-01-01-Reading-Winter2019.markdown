@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Reading - Spring 2019"
+title:  "Reading - Winter 2019"
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
-Hi! Welcome to Networks Reading Group for Spring 2019.
+Hi! Welcome to Networks Reading Group for Winter 2019.
 
 This group is for students interested in the areas of communication networks and neural networks! We meet every week and discuss on a relevant topic. The goal is to understand and learn about the current research in the areas of communication networks, AI, and ML. Someone within the group would lead the discussion every Friday. 
 
