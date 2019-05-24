@@ -41,10 +41,9 @@ The schedule is as follows
 | Apr 19| 1-2PM     | AH 4004       |Renjie Zhao     | IEEE 802.11ad, IEEE 802.11ay    | [Slides][Ranjieslides]      |
 | Apr 26| 1-2PM     | AH 4004       | Chen Chen     | Synthetic speech generated from brain recordings   | [Paper][chenpaper]     |
 | May 10| 1-2PM     | AH 4004       | Kshitiz Bansal     | Gravity Waves  | [Video][Kshitizvideo]     |
-| May 17| 1-2PM     | AH 5004       | Song and Jingqi      | TBD   | Slides      |
-| May 24| 1-2PM     | AH 4004       | Changhan Ge     | TBD   | Slides      |
-| May 31| 1-2PM     | AH 4004       | Yifan Huang     | TBD   | Slides      |
-| Jun 07| 1-2PM     | AH 4004       | Roshan    | TBD    | Slides      |
+| May 24| 1-2PM     | AH 4004       | Changhan Ge     | Hybrid mmWave beamforming   | Slides      |
+| May 31| 1-2PM     | AH 4004       | Song and Jingqi      | TBD   | Slides      |
+| Jun 07| 1-2PM     | AH 4004       | Yifan Huang    | TBD    | Slides      |
 
 
 ### Contacts
